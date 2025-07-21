@@ -189,7 +189,7 @@ export default function Home() {
 
 
       <div className="text-xl font-medium text-gray-300 mb-2 text-center">
-        Guess the capital of <strong>{country.country}</strong>
+        Guess the capital of <strong>{country.country}</strong>!
       </div>
 
       {/* Guess history */}
